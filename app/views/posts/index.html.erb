@@ -9,7 +9,5 @@
 <hr>
 
 <div id="posts">
-  <% @posts.each do |post| %>
-    <%= render post %>
-  <% end %>
+  <%= render partial: "post", collection: @posts, as: "post" %>
 </div>
