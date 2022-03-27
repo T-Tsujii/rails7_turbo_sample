@@ -1,2 +1,7 @@
 @import 'bootstrap/scss/bootstrap';
 @import 'bootstrap-icons/font/bootstrap-icons';
+
+// button_to のフォームに適用
+form.button_to {
+  display: inline;
+}
