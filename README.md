@@ -1,24 +1,5 @@
-# README
+# Turboを利用した投稿アプリ
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+JSは1行も書いていません。
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+![画面収録-2022-03-30-20 58 26](https://user-images.githubusercontent.com/52148373/160829772-d098a711-6926-4900-8c83-4f74eed83823.gif)
